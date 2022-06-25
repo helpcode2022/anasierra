@@ -1,0 +1,27 @@
+
+.textbox {
+    background-color: lavender;
+}
+.button {
+    background-color: plum;
+}
+.footer {
+    background-color: aliceblue;
+}
+.nav {
+    background-color: cornflowerblue;
+}
+.text {
+    color: darkblue;
+}
+.textcenter
+    {
+        text-align: center;
+        color: rgb(32, 24, 81);
+    }
+.textcen
+    {
+        text-align: center;
+        color: rgb(15, 7, 65);
+        background-color: lightblue;
+    }
